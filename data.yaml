@@ -1,0 +1,6 @@
+path: uadetrac_dataset
+train: train/images
+val: valid/images
+
+nc: 5
+names: ['bus', 'car', 'truck', 'van', 'motorcycle']
